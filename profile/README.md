@@ -24,4 +24,6 @@ FreeCuli is an open-source standard and certification body. We believe that your
 ## 🤝 Commercial & Certification Inquiries
 Are you a manufacturer looking to integrate the HFSCA standard or obtain the **#FreeCULI** badge for your upcoming product line?
 
-Reach out to our core engineering team at **[Yemek AI Engineering](https://yemekyarismasi.com)** to discuss B2B dual-licensing and technical integration.
+Reach out to our core engineering team (Yemek AI Engineering) to discuss B2B dual-licensing and technical integration.
+
+📧 **Contact us:** [info@freeculi.com](mailto:info@freeculi.com)
