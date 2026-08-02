@@ -19,10 +19,10 @@ FreeCuli is an open-source standard and certification body. We believe that your
 ## 🗄️ Core Repositories
 
 *   📚 **[Smart Kitchen Standards](https://github.com/FreeCuli/smart-kitchen-standards):** The official whitepapers, compliance blueprints, and manifesto.
-*   🧠 **[HFSCA Reference Core](https://github.com/FreeCuli/smart-kitchen-offline-assistant):** The open-source reference implementation of the HFSCA (Hands-Free Semantic Culinary Assistant) architecture.
+*   🧠 **[Smart Kitchen Offline Assistant](https://github.com/FreeCuli/smart-kitchen-offline-assistant):** The open-source reference implementation of the FreeCuli Edge AI engine. Build fully autonomous, zero-cloud smart kitchen appliances.
 
 ## 🤝 Commercial & Certification Inquiries
-Are you a manufacturer looking to integrate the HFSCA standard or obtain the **#FreeCULI** badge for your upcoming product line?
+Are you a manufacturer looking to integrate the Zero-Cloud Smart Kitchen standard or obtain the **#FreeCULI** certification badge for your upcoming product line?
 
 Reach out to our core engineering team (Yemek AI Engineering) to discuss B2B dual-licensing and technical integration. You can review our [Dual-Licensing Framework here](https://github.com/FreeCuli/smart-kitchen-offline-assistant#33-agpl-30-open-core--commercial-dual-licensing).
 
