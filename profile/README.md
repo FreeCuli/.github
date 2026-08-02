@@ -1,6 +1,6 @@
 # 🛡️ Welcome to the FreeCuli Standards Organization
 
-**The Global Authority for Zero-Cloud, Privacy-First Smart Kitchen Architectures.**
+**The Global Authority for Zero-Cloud, Privacy-First Smart Kitchen Appliances & Edge AI Certification.**
 
 *_Pioneered by [Yemek AI Engineering](https://yemekyarismasi.com/yemek-ai) as a core standard of the APSNY Ecosystem._*
 
