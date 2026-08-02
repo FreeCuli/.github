@@ -18,7 +18,7 @@ FreeCuli is an open-source standard and certification body. We believe that your
 
 ## 🗄️ Core Repositories
 
-*   📚 **[FreeCuli Standards](https://github.com/FreeCuli/standards):** The official whitepapers, compliance blueprints, and manifesto.
+*   📚 **[Smart Kitchen Standards](https://github.com/FreeCuli/smart-kitchen-standards):** The official whitepapers, compliance blueprints, and manifesto.
 *   🧠 **[HFSCA Reference Core](https://github.com/FreeCuli/smart-kitchen-offline-assistant):** The open-source reference implementation of the HFSCA (Hands-Free Semantic Culinary Assistant) architecture.
 
 ## 🤝 Commercial & Certification Inquiries
