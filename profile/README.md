@@ -18,6 +18,7 @@ FreeCuli is an open-source standard and certification body. We believe that your
 
 ## 🗄️ Core Repositories
 
+*   🏗️ **[Zero-Cloud Hardware Reference Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture):** The official CERN-OHL-S licensed hardware blueprint for HFSCA compliant smart appliances. A legally and physically indestructible fortress for Edge AI privacy.
 *   📚 **[Smart Kitchen Standards](https://github.com/FreeCuli/smart-kitchen-standards):** The official whitepapers, compliance blueprints, and manifesto.
 *   🧠 **[Smart Kitchen Offline Assistant](https://github.com/FreeCuli/smart-kitchen-offline-assistant):** The open-source reference implementation of the FreeCuli Edge AI engine. Build fully autonomous, zero-cloud smart kitchen appliances.
 
