@@ -1,5 +1,7 @@
 # 🛡️ Welcome to the FreeCuli Standards Organization
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22838474.svg)](https://doi.org/10.5281/zenodo.22838474)
+
 **The World's First Zero-Cloud Smart Kitchen Certification Standard.**
 
 *_Pioneered by [Yemek AI Engineering](https://yemekyarismasi.com/yemek-ai) as a core standard of the APSNY Ecosystem._*
