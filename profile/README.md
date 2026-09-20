@@ -25,8 +25,11 @@ FreeCuli is an open-source standard and certification body. We believe that your
 *   🧠 **[Smart Kitchen Offline Assistant](https://github.com/FreeCuli/smart-kitchen-offline-assistant):** The open-source reference implementation of the FreeCuli Edge AI engine. Build fully autonomous, zero-cloud smart kitchen appliances.
 
 ## 🤝 Commercial & Certification Inquiries
-Are you a manufacturer looking to integrate the Zero-Cloud Smart Kitchen standard or obtain the **#FreeCULI** certification badge for your upcoming product line?
 
-Reach out to our core engineering team (Yemek AI Engineering) to discuss B2B dual-licensing and technical integration. You can review our [Dual-Licensing Framework here](https://github.com/FreeCuli/smart-kitchen-offline-assistant#33-agpl-30-open-core--commercial-dual-licensing).
+Are you a hardware manufacturer looking to build true Zero-Cloud compliant appliances and obtain the **#FreeCULI** certification badge?
+
+To achieve certification, your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/FC-ZC-Conformance-Test-Specification.md)**, ensuring no data leaks exist via reverse-channels or side-channels.
+
+Reach out to our core engineering team to discuss testing protocols, B2B dual-licensing, and technical integration. 
 
 📧 **Contact us:** [info@freeculi.com](mailto:info@freeculi.com)
