@@ -2,19 +2,19 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22838474-blue)](https://doi.org/10.5281/zenodo.22838474)
 
-**The World's First Zero-Cloud Smart Kitchen Certification Standard.**
+**The Universal "Zero-Cloud" (Server-Independent) Hardware Certification Standard for Edge AI.**
 
 *_Pioneered by [Yemek AI Engineering](https://yemekyarismasi.com/yemek-ai) as a core standard of the APSNY Ecosystem._*
 
 ---
 
 ## 🎯 Our Mission
-FreeCuli is an open-source standard and certification body. We believe that your kitchen data—what you cook, when you cook, and the ambient sounds of your home—belongs solely to you. We empower hardware manufacturers to build fully functional smart appliances that operate **100% offline** using Edge AI.
+FreeCuli is an open-source standard and certification body. We believe that your sensitive data belongs solely to you. We empower hardware manufacturers to build fully functional, **Server-Independent** smart devices (from Smart Homes to Medical and Defense IoT) that operate **100% offline** by enforcing strict hardware trust boundaries.
 
-### The 3 Pillars of FreeCuli:
-1. **Zero Cloud Dependencies:** Devices must operate with zero-latency without needing external internet access.
-2. **Privacy by Design:** Full compliance with GDPR (Article 25) and KVKK (Article 4) by structurally preventing data extraction.
-3. **Hardware Independence:** A modular NPU/Edge AI reference architecture that any appliance manufacturer can adopt.
+### The Core Principles of ZC-CORE Methodology:
+1. **Hardware-Enforced Isolation:** Raw sensor data cannot leave the trusted processing domain. The boundary is enforced by physical data diodes, not just software.
+2. **Server-Independence:** Devices must operate with zero-latency without needing centralized cloud processing for their core AI functions.
+3. **Verifiability:** Absolute compliance with GDPR and KVKK by structurally eradicating mass surveillance capabilities, proven through strict laboratory conformance tests.
 
 ---
 
