@@ -1,6 +1,6 @@
 # 🛡️ Welcome to the FreeCuli Standards Organization
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22838474-blue)](https://doi.org/10.5281/zenodo.22838474)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22838473-blue)](https://doi.org/10.5281/zenodo.22838473)
 [![OIN Member](https://img.shields.io/badge/OIN%202.0-Member-brightgreen.svg)](https://openinventionnetwork.com)
 
 **The Universal "Zero-Cloud" (Server-Independent) Hardware Certification Standard for Edge AI.**
