@@ -45,7 +45,14 @@ flowchart LR
 
 ### 🏛️ Normative Standards & Specifications
 * 📖 **[ZC-CORE Hardware Reference Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture)**
-  * The official CERN-OHL-S licensed hardware blueprint for ZC-CORE v3.2.1 compliant AIoT devices. Contains the absolute methodology invariants, Attack Taxonomies, Conformance Test Specifications (CTS), and Defensive Prior-Art Matrix.
+  *The official CERN-OHL-S licensed hardware blueprint for ZC-CORE v3.2.1 compliant AIoT devices.*
+
+  **Core Pillars & Entry Points:**
+  * 📜 **[Methodology Invariants](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-methodology-invariants.md)** - *The absolute DNA and normative technological rules (M1-M10).*
+  * ⚔️ **[Attack Taxonomy](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-attack-taxonomy.md)** - *Classification of physical and side-channel threats mitigated by the standard.*
+  * 🧪 **[Conformance Test Spec (CTS)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-conformance-test-specification.md)** - *Physical laboratory procedures required to prove hardware compliance.*
+  * 📊 **[Evidence Matrix](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-conformance-evidence-matrix.md)** - *Mapping of normative requirements to mandatory physical laboratory evidence.*
+  * ⚖️ **[Dual-Licensing Framework](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-dual-licensing.md)** - *Open-source rules vs. Commercial Exemption (B2B) licensing models.*
 
 ### 🔬 Reference Implementations
 * 🍳 **[Smart Kitchen Standards (HFSCA)](https://github.com/FreeCuli/smart-kitchen-standards)**
