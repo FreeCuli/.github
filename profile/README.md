@@ -3,7 +3,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22838473-blue)](https://doi.org/10.5281/zenodo.22838473)
 [![OIN Member](https://img.shields.io/badge/OIN%202.0-Member-brightgreen.svg)](https://openinventionnetwork.com)
 [![License: CERN-OHL-S v2.0](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](https://ohwr.org/cernohl)
-[![Standard](https://img.shields.io/badge/ZC--CORE-v3.2.1-black.svg)]()
+[![Standard](https://img.shields.io/badge/ZC--CORE-v3.2.1-black.svg)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/releases/tag/v3.2.1)
 
 > **"Implementation Freedom. Architectural Absolute Privacy."**
 > 
@@ -44,7 +44,7 @@ We provide a 4-tier conformance framework for global hardware supply chains:
 
 Are you an AIoT, Defense, or Edge AI hardware manufacturer looking to build true Zero-Cloud compliant appliances and obtain the **FreeCuli ZC-CORE** certification badge?
 
-Your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS v3.2.1)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/FC-ZC-Conformance-Test-Specification.md)** and provide mandatory laboratory evidence proving sensor isolation.
+Your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS v3.2.1)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-conformance-test-specification.md)** and provide mandatory laboratory evidence proving sensor isolation.
 
 Reach out to our core engineering team to discuss testing protocols, B2B dual-licensing, and technical integration. 
 
