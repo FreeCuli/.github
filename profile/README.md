@@ -2,7 +2,8 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22838473-blue)](https://doi.org/10.5281/zenodo.22838473)
 [![OIN Member](https://img.shields.io/badge/OIN%202.0-Member-brightgreen.svg)](https://openinventionnetwork.com)
-[![Standard](https://img.shields.io/badge/ZC--CORE-v3.1.0-black.svg)]()
+[![License: CERN-OHL-S v2.0](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](https://ohwr.org/cernohl)
+[![Standard](https://img.shields.io/badge/ZC--CORE-v3.2.1-black.svg)]()
 
 > **"Implementation Freedom. Architectural Absolute Privacy."**
 > 
@@ -11,7 +12,7 @@
 ---
 
 ## 🎯 The Consortium Mission
-FreeCuli enforces the **ZC-CORE v3.1.0** standard. We empower hardware manufacturers to build fully functional, **Server-Independent** smart devices (from Smart Homes to Medical, Defense, and Industrial IoT) that operate **100% offline** by enforcing strict, physical hardware trust boundaries.
+FreeCuli enforces the **ZC-CORE v3.2.1** standard. We empower hardware manufacturers to build fully functional, **Server-Independent** smart devices (from Smart Homes to Medical, Defense, and Industrial IoT) that operate **100% offline** by enforcing strict, physical hardware trust boundaries.
 
 ### 🏆 ZC-CORE Certification Tiers
 We provide a 4-tier conformance framework for global hardware supply chains:
@@ -29,7 +30,7 @@ We provide a 4-tier conformance framework for global hardware supply chains:
 
 ### 🏛️ Normative Standards & Specifications
 * 🔌 **[ZC-CORE Hardware Reference Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture)**
-  * The official CERN-OHL-S licensed hardware blueprint for ZC-CORE v3.1.0 compliant AIoT devices. Contains the absolute methodology invariants, Attack Taxonomies, Conformance Test Specifications (CTS), and Defensive Prior-Art Matrix.
+  * The official CERN-OHL-S licensed hardware blueprint for ZC-CORE v3.2.1 compliant AIoT devices. Contains the absolute methodology invariants, Attack Taxonomies, Conformance Test Specifications (CTS), and Defensive Prior-Art Matrix.
 
 ### 🛠️ Reference Implementations
 * 📚 **[Smart Kitchen Standards](https://github.com/FreeCuli/smart-kitchen-standards)**
@@ -43,7 +44,7 @@ We provide a 4-tier conformance framework for global hardware supply chains:
 
 Are you an AIoT, Defense, or Edge AI hardware manufacturer looking to build true Zero-Cloud compliant appliances and obtain the **FreeCuli ZC-CORE** certification badge?
 
-Your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS v3.1.0)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/FC-ZC-Conformance-Test-Specification.md)** and provide mandatory laboratory evidence proving sensor isolation.
+Your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS v3.2.1)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/FC-ZC-Conformance-Test-Specification.md)** and provide mandatory laboratory evidence proving sensor isolation.
 
 Reach out to our core engineering team to discuss testing protocols, B2B dual-licensing, and technical integration. 
 
