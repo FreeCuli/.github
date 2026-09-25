@@ -7,7 +7,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22838473-blue)](https://doi.org/10.5281/zenodo.22838473)
 [![License: CERN-OHL-S v2.0](https://img.shields.io/badge/License-CERN--OHL--S-blue.svg)](https://ohwr.org/cernohl)
 [![OIN Member](https://img.shields.io/badge/OIN%202.0-Member-brightgreen.svg)](https://openinventionnetwork.com)
-[![Standard](https://img.shields.io/badge/ZC--CORE-v3.2.1-black.svg)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/releases/tag/v3.2.1)
+[![Standard](https://img.shields.io/badge/ZC--CORE-v3.3.0-rc2-black.svg)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/releases/tag/v3.3.0-rc2)
 
 <br/>
 
@@ -20,7 +20,7 @@
 ---
 
 ## 🌍 The Consortium Mission
-FreeCuli enforces the strict **ZC-CORE v3.2.1** standard. We empower hardware manufacturers to build fully functional, **Server-Independent** smart devices (from Smart Homes to Medical, Defense, and Industrial IoT) that operate **100% offline** by enforcing uncompromising, physical hardware trust boundaries.
+FreeCuli enforces the strict **ZC-CORE v3.3.0-rc2** standard. We empower hardware manufacturers to build fully functional, **Server-Independent** smart devices (from Smart Homes to Medical, Defense, and Industrial IoT) that operate **100% offline** by enforcing uncompromising, physical hardware trust boundaries.
 
 <br/>
 
@@ -45,7 +45,7 @@ flowchart LR
 
 ### 🏛️ Normative Standards & Specifications
 * 📖 **[ZC-CORE Hardware Reference Architecture](https://github.com/FreeCuli/zero-cloud-hardware-architecture)**
-  *The official CERN-OHL-S licensed hardware blueprint for ZC-CORE v3.2.1 compliant AIoT devices.*
+  *The official CERN-OHL-S licensed hardware blueprint for ZC-CORE v3.3.0-rc2 compliant AIoT devices.*
 
   **Core Pillars & Entry Points:**
   * 📜 **[Methodology Invariants](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-methodology-invariants.md)** - *The absolute DNA and normative technological rules (M1-M10).*
@@ -78,7 +78,7 @@ We provide a 4-tier conformance framework for global hardware supply chains to v
 
 Are you an AIoT, Defense, or Edge AI hardware manufacturer looking to build true Zero-Cloud compliant appliances and obtain the **FreeCuli ZC-CORE** certification badge?
 
-Your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS v3.2.1)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-conformance-test-specification.md)** and provide mandatory laboratory physical evidence proving sensor isolation.
+Your hardware architecture must pass the adversarial constraints outlined in our **[Conformance Test Specification (FC-ZC-CTS v3.3.0-rc2)](https://github.com/FreeCuli/zero-cloud-hardware-architecture/blob/main/zero-cloud-core-conformance-test-specification.md)** and provide mandatory laboratory physical evidence proving sensor isolation.
 
 Reach out to our core engineering team to discuss testing protocols, B2B dual-licensing, and technical integration.
 
